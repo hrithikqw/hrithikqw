@@ -2,15 +2,24 @@
 
 <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" width="1000px" height="300px">
 
-<h1 align="center">Hi 👋, I'm Hrithik</h1>
+<h1 align="center">Hi There👋, I'm Hrithik</h1>
 <h3 align="center">Aspiring Software Engineer | Frontend Dev | Tech Enthusiast | Car Lover  </h3>
-
+  
 ## 💫 About Me:
-🎯 Aspiring Software Engineer | Tech Enthusiast  
-🚀 Turning ideas into interactive web experiences and solving real-world problems—one commit at a time.  
-🔧 Diving into machine learning, full-stack adventures, and API wizardry.  
-👨‍💻 Sharpening my skills in Data Structures & Algorithms daily.  
-⚡ Let’s build something awesome! Always open to collaborate on cool web projects.  
+🎯 Aspiring Software Engineer | Tech Enthusiast
+
+🚀 Turning ideas into interactive web experiences and solving real-world problems—one commit at a time.
+
+🔧 Diving into full-stack adventures, and API wizardry.
+
+👨‍💻 Sharpening my skills in Data Structures & Algorithms daily, and learning cloud technologies.
+
+⚡ Let’s build something awesome! Always open to collaborate on cool web projects.
+
+💼 Currently Interning at: Software Engineering Intern – Zillion Technologies Inc. (Jun 2025 – Present)
+
+📌 Previous Internship: SDE Intern – WayHike Technologies Inc. (Jun 2024 – Dec 2024)
+
 🏎️ Fun fact: If it’s got wheels or code, I probably love it.
 
 
