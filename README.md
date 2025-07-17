@@ -10,7 +10,7 @@
 
 🚀 Turning ideas into interactive web experiences and solving real-world problems—one commit at a time.
 
-🔧 Diving into full-stack adventures, and API wizardry.
+🔧 Diving into full-stack adventures, cloud technologies, and API wizardry.
 
 👨‍💻 Sharpening my skills in Data Structures & Algorithms daily, and learning cloud technologies.
 
@@ -18,7 +18,7 @@
 
 💼 Currently Interning at: Software Engineering Intern – Zillion Technologies Inc. (Jun 2025 – Present)
 
-📌 Previous Internship: SDE Intern – WayHike Technologies Inc. (Jun 2024 – Dec 2024)
+📌 Previous Internship: SDE Intern – WayHike Inc. (Jun 2024 – Dec 2024)
 
 🏎️ Fun fact: If it’s got wheels or code, I probably love it.
 
